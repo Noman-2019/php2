@@ -1,0 +1,4 @@
+1|ami|50|passed
+2|tumi|40|average
+3|sey|30|poor
+4|tara|20|failed

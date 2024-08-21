@@ -1,0 +1,7 @@
+1|noman|95|Passed
+2|man|70|Failed
+3|superman|100|Passed
+4|maan|90|A
+5|kaan|90|ge
+6|chaan|90|f
+
